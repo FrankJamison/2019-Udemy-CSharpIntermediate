@@ -333,5 +333,3 @@ These exercises are intentionally small and educational. A few behaviors are wor
 
 - Some classes *print messages* on invalid operations rather than rethrowing exceptions (e.g., `Stopwatch.Start()` called twice, stack pop on empty stack).
 - Some constructor validation prints an error message but still completes construction (e.g., `DbConnection` when the connection string is null/whitespace).
-
-If you want, I can also add small per-exercise `README.md` files inside each exercise folder, but this root README is designed to be the single entry point.
