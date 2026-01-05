@@ -1,0 +1,15 @@
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise3-DesignAStack\Exercise3-DesignAStack\bin\Release\net8.0\Exercise3-DesignAStack.exe
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise3-DesignAStack\Exercise3-DesignAStack\bin\Release\net8.0\Exercise3-DesignAStack.deps.json
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise3-DesignAStack\Exercise3-DesignAStack\bin\Release\net8.0\Exercise3-DesignAStack.runtimeconfig.json
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise3-DesignAStack\Exercise3-DesignAStack\bin\Release\net8.0\Exercise3-DesignAStack.dll
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise3-DesignAStack\Exercise3-DesignAStack\bin\Release\net8.0\Exercise3-DesignAStack.pdb
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise3-DesignAStack\Exercise3-DesignAStack\obj\Release\net8.0\Exercise3-DesignAStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise3-DesignAStack\Exercise3-DesignAStack\obj\Release\net8.0\Exercise3-DesignAStack.AssemblyInfoInputs.cache
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise3-DesignAStack\Exercise3-DesignAStack\obj\Release\net8.0\Exercise3-DesignAStack.AssemblyInfo.cs
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise3-DesignAStack\Exercise3-DesignAStack\obj\Release\net8.0\Exercise3-DesignAStack.csproj.CoreCompileInputs.cache
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise3-DesignAStack\Exercise3-DesignAStack\obj\Release\net8.0\Exercise3-DesignAStack.sourcelink.json
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise3-DesignAStack\Exercise3-DesignAStack\obj\Release\net8.0\Exercise3-DesignAStack.dll
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise3-DesignAStack\Exercise3-DesignAStack\obj\Release\net8.0\refint\Exercise3-DesignAStack.dll
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise3-DesignAStack\Exercise3-DesignAStack\obj\Release\net8.0\Exercise3-DesignAStack.pdb
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise3-DesignAStack\Exercise3-DesignAStack\obj\Release\net8.0\Exercise3-DesignAStack.genruntimeconfig.cache
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise3-DesignAStack\Exercise3-DesignAStack\obj\Release\net8.0\ref\Exercise3-DesignAStack.dll

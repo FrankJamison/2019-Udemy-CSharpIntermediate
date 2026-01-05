@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exercise6-DesignAWorkflowEngine/1.0.0": {
+        "runtime": {
+          "Exercise6-DesignAWorkflowEngine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercise6-DesignAWorkflowEngine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

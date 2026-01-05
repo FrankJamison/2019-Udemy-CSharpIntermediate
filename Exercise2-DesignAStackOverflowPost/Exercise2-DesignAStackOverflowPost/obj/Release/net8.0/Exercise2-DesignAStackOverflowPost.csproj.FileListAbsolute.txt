@@ -1,0 +1,15 @@
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise2-DesignAStackOverflowPost\Exercise2-DesignAStackOverflowPost\bin\Release\net8.0\Exercise2-DesignAStackOverflowPost.exe
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise2-DesignAStackOverflowPost\Exercise2-DesignAStackOverflowPost\bin\Release\net8.0\Exercise2-DesignAStackOverflowPost.deps.json
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise2-DesignAStackOverflowPost\Exercise2-DesignAStackOverflowPost\bin\Release\net8.0\Exercise2-DesignAStackOverflowPost.runtimeconfig.json
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise2-DesignAStackOverflowPost\Exercise2-DesignAStackOverflowPost\bin\Release\net8.0\Exercise2-DesignAStackOverflowPost.dll
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise2-DesignAStackOverflowPost\Exercise2-DesignAStackOverflowPost\bin\Release\net8.0\Exercise2-DesignAStackOverflowPost.pdb
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise2-DesignAStackOverflowPost\Exercise2-DesignAStackOverflowPost\obj\Release\net8.0\Exercise2-DesignAStackOverflowPost.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise2-DesignAStackOverflowPost\Exercise2-DesignAStackOverflowPost\obj\Release\net8.0\Exercise2-DesignAStackOverflowPost.AssemblyInfoInputs.cache
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise2-DesignAStackOverflowPost\Exercise2-DesignAStackOverflowPost\obj\Release\net8.0\Exercise2-DesignAStackOverflowPost.AssemblyInfo.cs
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise2-DesignAStackOverflowPost\Exercise2-DesignAStackOverflowPost\obj\Release\net8.0\Exercise2-DesignAStackOverflowPost.csproj.CoreCompileInputs.cache
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise2-DesignAStackOverflowPost\Exercise2-DesignAStackOverflowPost\obj\Release\net8.0\Exercise2-DesignAStackOverflowPost.sourcelink.json
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise2-DesignAStackOverflowPost\Exercise2-DesignAStackOverflowPost\obj\Release\net8.0\Exercise2-DesignAStackOverflowPost.dll
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise2-DesignAStackOverflowPost\Exercise2-DesignAStackOverflowPost\obj\Release\net8.0\refint\Exercise2-DesignAStackOverflowPost.dll
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise2-DesignAStackOverflowPost\Exercise2-DesignAStackOverflowPost\obj\Release\net8.0\Exercise2-DesignAStackOverflowPost.pdb
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise2-DesignAStackOverflowPost\Exercise2-DesignAStackOverflowPost\obj\Release\net8.0\Exercise2-DesignAStackOverflowPost.genruntimeconfig.cache
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise2-DesignAStackOverflowPost\Exercise2-DesignAStackOverflowPost\obj\Release\net8.0\ref\Exercise2-DesignAStackOverflowPost.dll

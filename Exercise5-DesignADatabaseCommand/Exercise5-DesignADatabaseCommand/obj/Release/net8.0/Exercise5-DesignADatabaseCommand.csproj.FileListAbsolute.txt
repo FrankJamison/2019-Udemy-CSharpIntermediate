@@ -1,0 +1,15 @@
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise5-DesignADatabaseCommand\Exercise5-DesignADatabaseCommand\bin\Release\net8.0\Exercise5-DesignADatabaseCommand.exe
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise5-DesignADatabaseCommand\Exercise5-DesignADatabaseCommand\bin\Release\net8.0\Exercise5-DesignADatabaseCommand.deps.json
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise5-DesignADatabaseCommand\Exercise5-DesignADatabaseCommand\bin\Release\net8.0\Exercise5-DesignADatabaseCommand.runtimeconfig.json
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise5-DesignADatabaseCommand\Exercise5-DesignADatabaseCommand\bin\Release\net8.0\Exercise5-DesignADatabaseCommand.dll
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise5-DesignADatabaseCommand\Exercise5-DesignADatabaseCommand\bin\Release\net8.0\Exercise5-DesignADatabaseCommand.pdb
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise5-DesignADatabaseCommand\Exercise5-DesignADatabaseCommand\obj\Release\net8.0\Exercise5-DesignADatabaseCommand.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise5-DesignADatabaseCommand\Exercise5-DesignADatabaseCommand\obj\Release\net8.0\Exercise5-DesignADatabaseCommand.AssemblyInfoInputs.cache
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise5-DesignADatabaseCommand\Exercise5-DesignADatabaseCommand\obj\Release\net8.0\Exercise5-DesignADatabaseCommand.AssemblyInfo.cs
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise5-DesignADatabaseCommand\Exercise5-DesignADatabaseCommand\obj\Release\net8.0\Exercise5-DesignADatabaseCommand.csproj.CoreCompileInputs.cache
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise5-DesignADatabaseCommand\Exercise5-DesignADatabaseCommand\obj\Release\net8.0\Exercise5-DesignADatabaseCommand.sourcelink.json
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise5-DesignADatabaseCommand\Exercise5-DesignADatabaseCommand\obj\Release\net8.0\Exercise5-DesignADatabaseCommand.dll
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise5-DesignADatabaseCommand\Exercise5-DesignADatabaseCommand\obj\Release\net8.0\refint\Exercise5-DesignADatabaseCommand.dll
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise5-DesignADatabaseCommand\Exercise5-DesignADatabaseCommand\obj\Release\net8.0\Exercise5-DesignADatabaseCommand.pdb
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise5-DesignADatabaseCommand\Exercise5-DesignADatabaseCommand\obj\Release\net8.0\Exercise5-DesignADatabaseCommand.genruntimeconfig.cache
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise5-DesignADatabaseCommand\Exercise5-DesignADatabaseCommand\obj\Release\net8.0\ref\Exercise5-DesignADatabaseCommand.dll

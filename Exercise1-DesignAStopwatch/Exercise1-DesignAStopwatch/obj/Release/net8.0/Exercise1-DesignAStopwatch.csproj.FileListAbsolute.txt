@@ -1,0 +1,15 @@
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise1-DesignAStopwatch\Exercise1-DesignAStopwatch\bin\Release\net8.0\Exercise1-DesignAStopwatch.exe
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise1-DesignAStopwatch\Exercise1-DesignAStopwatch\bin\Release\net8.0\Exercise1-DesignAStopwatch.deps.json
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise1-DesignAStopwatch\Exercise1-DesignAStopwatch\bin\Release\net8.0\Exercise1-DesignAStopwatch.runtimeconfig.json
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise1-DesignAStopwatch\Exercise1-DesignAStopwatch\bin\Release\net8.0\Exercise1-DesignAStopwatch.dll
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise1-DesignAStopwatch\Exercise1-DesignAStopwatch\bin\Release\net8.0\Exercise1-DesignAStopwatch.pdb
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise1-DesignAStopwatch\Exercise1-DesignAStopwatch\obj\Release\net8.0\Exercise1-DesignAStopwatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise1-DesignAStopwatch\Exercise1-DesignAStopwatch\obj\Release\net8.0\Exercise1-DesignAStopwatch.AssemblyInfoInputs.cache
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise1-DesignAStopwatch\Exercise1-DesignAStopwatch\obj\Release\net8.0\Exercise1-DesignAStopwatch.AssemblyInfo.cs
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise1-DesignAStopwatch\Exercise1-DesignAStopwatch\obj\Release\net8.0\Exercise1-DesignAStopwatch.csproj.CoreCompileInputs.cache
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise1-DesignAStopwatch\Exercise1-DesignAStopwatch\obj\Release\net8.0\Exercise1-DesignAStopwatch.sourcelink.json
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise1-DesignAStopwatch\Exercise1-DesignAStopwatch\obj\Release\net8.0\Exercise1-DesignAStopwatch.dll
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise1-DesignAStopwatch\Exercise1-DesignAStopwatch\obj\Release\net8.0\refint\Exercise1-DesignAStopwatch.dll
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise1-DesignAStopwatch\Exercise1-DesignAStopwatch\obj\Release\net8.0\Exercise1-DesignAStopwatch.pdb
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise1-DesignAStopwatch\Exercise1-DesignAStopwatch\obj\Release\net8.0\Exercise1-DesignAStopwatch.genruntimeconfig.cache
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise1-DesignAStopwatch\Exercise1-DesignAStopwatch\obj\Release\net8.0\ref\Exercise1-DesignAStopwatch.dll

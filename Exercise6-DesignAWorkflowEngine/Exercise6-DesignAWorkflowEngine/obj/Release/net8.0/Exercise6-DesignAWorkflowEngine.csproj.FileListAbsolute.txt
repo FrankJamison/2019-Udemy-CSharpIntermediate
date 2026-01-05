@@ -1,0 +1,15 @@
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise6-DesignAWorkflowEngine\Exercise6-DesignAWorkflowEngine\bin\Release\net8.0\Exercise6-DesignAWorkflowEngine.exe
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise6-DesignAWorkflowEngine\Exercise6-DesignAWorkflowEngine\bin\Release\net8.0\Exercise6-DesignAWorkflowEngine.deps.json
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise6-DesignAWorkflowEngine\Exercise6-DesignAWorkflowEngine\bin\Release\net8.0\Exercise6-DesignAWorkflowEngine.runtimeconfig.json
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise6-DesignAWorkflowEngine\Exercise6-DesignAWorkflowEngine\bin\Release\net8.0\Exercise6-DesignAWorkflowEngine.dll
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise6-DesignAWorkflowEngine\Exercise6-DesignAWorkflowEngine\bin\Release\net8.0\Exercise6-DesignAWorkflowEngine.pdb
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise6-DesignAWorkflowEngine\Exercise6-DesignAWorkflowEngine\obj\Release\net8.0\Exercise6-DesignAWorkflowEngine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise6-DesignAWorkflowEngine\Exercise6-DesignAWorkflowEngine\obj\Release\net8.0\Exercise6-DesignAWorkflowEngine.AssemblyInfoInputs.cache
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise6-DesignAWorkflowEngine\Exercise6-DesignAWorkflowEngine\obj\Release\net8.0\Exercise6-DesignAWorkflowEngine.AssemblyInfo.cs
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise6-DesignAWorkflowEngine\Exercise6-DesignAWorkflowEngine\obj\Release\net8.0\Exercise6-DesignAWorkflowEngine.csproj.CoreCompileInputs.cache
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise6-DesignAWorkflowEngine\Exercise6-DesignAWorkflowEngine\obj\Release\net8.0\Exercise6-DesignAWorkflowEngine.sourcelink.json
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise6-DesignAWorkflowEngine\Exercise6-DesignAWorkflowEngine\obj\Release\net8.0\Exercise6-DesignAWorkflowEngine.dll
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise6-DesignAWorkflowEngine\Exercise6-DesignAWorkflowEngine\obj\Release\net8.0\refint\Exercise6-DesignAWorkflowEngine.dll
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise6-DesignAWorkflowEngine\Exercise6-DesignAWorkflowEngine\obj\Release\net8.0\Exercise6-DesignAWorkflowEngine.pdb
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise6-DesignAWorkflowEngine\Exercise6-DesignAWorkflowEngine\obj\Release\net8.0\Exercise6-DesignAWorkflowEngine.genruntimeconfig.cache
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise6-DesignAWorkflowEngine\Exercise6-DesignAWorkflowEngine\obj\Release\net8.0\ref\Exercise6-DesignAWorkflowEngine.dll

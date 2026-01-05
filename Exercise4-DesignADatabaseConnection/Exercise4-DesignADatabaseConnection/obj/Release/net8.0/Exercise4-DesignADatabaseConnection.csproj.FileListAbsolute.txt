@@ -1,0 +1,15 @@
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise4-DesignADatabaseConnection\Exercise4-DesignADatabaseConnection\bin\Release\net8.0\Exercise4-DesignADatabaseConnection.exe
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise4-DesignADatabaseConnection\Exercise4-DesignADatabaseConnection\bin\Release\net8.0\Exercise4-DesignADatabaseConnection.deps.json
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise4-DesignADatabaseConnection\Exercise4-DesignADatabaseConnection\bin\Release\net8.0\Exercise4-DesignADatabaseConnection.runtimeconfig.json
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise4-DesignADatabaseConnection\Exercise4-DesignADatabaseConnection\bin\Release\net8.0\Exercise4-DesignADatabaseConnection.dll
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise4-DesignADatabaseConnection\Exercise4-DesignADatabaseConnection\bin\Release\net8.0\Exercise4-DesignADatabaseConnection.pdb
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise4-DesignADatabaseConnection\Exercise4-DesignADatabaseConnection\obj\Release\net8.0\Exercise4-DesignADatabaseConnection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise4-DesignADatabaseConnection\Exercise4-DesignADatabaseConnection\obj\Release\net8.0\Exercise4-DesignADatabaseConnection.AssemblyInfoInputs.cache
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise4-DesignADatabaseConnection\Exercise4-DesignADatabaseConnection\obj\Release\net8.0\Exercise4-DesignADatabaseConnection.AssemblyInfo.cs
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise4-DesignADatabaseConnection\Exercise4-DesignADatabaseConnection\obj\Release\net8.0\Exercise4-DesignADatabaseConnection.csproj.CoreCompileInputs.cache
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise4-DesignADatabaseConnection\Exercise4-DesignADatabaseConnection\obj\Release\net8.0\Exercise4-DesignADatabaseConnection.sourcelink.json
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise4-DesignADatabaseConnection\Exercise4-DesignADatabaseConnection\obj\Release\net8.0\Exercise4-DesignADatabaseConnection.dll
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise4-DesignADatabaseConnection\Exercise4-DesignADatabaseConnection\obj\Release\net8.0\refint\Exercise4-DesignADatabaseConnection.dll
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise4-DesignADatabaseConnection\Exercise4-DesignADatabaseConnection\obj\Release\net8.0\Exercise4-DesignADatabaseConnection.pdb
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise4-DesignADatabaseConnection\Exercise4-DesignADatabaseConnection\obj\Release\net8.0\Exercise4-DesignADatabaseConnection.genruntimeconfig.cache
+D:\Programming\C#\2019UdemyCSharpIntermediate\Exercise4-DesignADatabaseConnection\Exercise4-DesignADatabaseConnection\obj\Release\net8.0\ref\Exercise4-DesignADatabaseConnection.dll

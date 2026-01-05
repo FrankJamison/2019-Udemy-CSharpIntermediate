@@ -1,8 +1,8 @@
-# C# Intermediate - Classes, Interfaces, and OOP Excercises
+# C# Intermediate - Classes, Interfaces, and OOP Exercises
 
 This repository contains a set of small console apps focused on *object-oriented design* concepts from the Udemy course **C# Intermediate - Classes, Interfaces, and OOP**. Each folder is an independent exercise with its own solution (`.sln`) and console project (`.csproj`).
 
-All projects in this workspace target **.NET Core 2.1** (`netcoreapp2.1`) and are intended to be run from the command line or inside Visual Studio / VS Code.
+All projects in this workspace target **.NET 8** (`net8.0`) and are intended to be run from the command line or inside Visual Studio / VS Code.
 
 ## Contents
 
@@ -15,8 +15,10 @@ All projects in this workspace target **.NET Core 2.1** (`netcoreapp2.1`) and ar
 
 ## Prerequisites
 
-- **.NET SDK** capable of building `netcoreapp2.1` projects.
-  - If you’re using a newer SDK (e.g., .NET 6/7/8), you may need to install the **.NET Core 2.1 runtime / targeting pack** or update the target frameworks.
+- **.NET SDK** capable of building `net8.0` projects.
+  - This repo does not pin an SDK with `global.json`.
+  - As of **January 4, 2026**, it was last built in this workspace using `dotnet --version` → `10.0.101`.
+  - If you hit SDK/version issues, install the .NET 8 SDK (or pin an SDK yourself via `global.json`).
 - Windows, macOS, or Linux
 - Optional IDE support:
   - Visual Studio
@@ -26,11 +28,15 @@ All projects in this workspace target **.NET Core 2.1** (`netcoreapp2.1`) and ar
 
 Each exercise can be built/run independently.
 
+Note: By default, `dotnet run` uses the **Debug** configuration. To run/build in **Release**, add `-c Release`.
+
 ### Run each exercise (from repo root)
 
 ```powershell
 # Exercise 1
 dotnet run --project .\Exercise1-DesignAStopwatch\Exercise1-DesignAStopwatch\Exercise1-DesignAStopwatch.csproj
+# Release (optional)
+dotnet run -c Release --project .\Exercise1-DesignAStopwatch\Exercise1-DesignAStopwatch\Exercise1-DesignAStopwatch.csproj
 
 # Exercise 2
 dotnet run --project .\Exercise2-DesignAStackOverflowPost\Exercise2-DesignAStackOverflowPost\Exercise2-DesignAStackOverflowPost.csproj
@@ -66,6 +72,9 @@ dotnet run
 cd .\Exercise6-DesignAWorkflowEngine
 
 dotnet build .\Exercise6-DesignAWorkflowEngine.sln
+
+# Release (optional)
+dotnet build .\Exercise6-DesignAWorkflowEngine.sln -c Release
 ```
 
 ### Option C: Open the solution in Visual Studio
